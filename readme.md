@@ -12,6 +12,11 @@
  
 > 3. JAVA: Good understanding of OOPS concepts and JDBC.Currently, at a beginner’s level, but constantly working to build and sharpen my skills that can contribute to overall growth.
 
+## Pull Request process, Continous Integration and Continous Delivery
+
+![Alt text](Documentation/Images/PR-CI-CD.png)
+
+
 ## Linked List
 
 > 1. Topic-1
@@ -21,7 +26,7 @@
 
 
 
-## JDBC with Sqlite Console App
+## JDBC with Sql Operations
 > 1. Topic-1
 > 1. Topic-2
 
