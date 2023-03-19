@@ -1,8 +1,8 @@
-# Varun Visakamalla
+# Bhavya Dora - Linked List - Jdbc and Sql Operations
 
 ## Date Time:  5:54 pm Saturday, 18 March 2023 (IST)
 
-![Bhavya Dora|150x150](Documentation/Images/Bhavya%20Github.jpg)
+#![Bhaya Dora|150x150](Documentation/Images/Bhavya%20Github.jpg)
 
 ## Java Training acquired
 
