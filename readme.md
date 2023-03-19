@@ -2,7 +2,7 @@
 
 ## Date Time:  5:54 pm Saturday, 18 March 2023 (IST)
 
-#![Bhaya Dora|150x150](Documentation/Images/Bhavya%20Github.jpg)
+![Bhavya Dora](Documentation/Images/Bhavya%20Github.jpg)
 
 ## Java Training acquired
 
