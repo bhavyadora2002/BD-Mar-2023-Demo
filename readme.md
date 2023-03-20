@@ -1,8 +1,8 @@
 # Bhavya Dora - Linked List - Jdbc and Sql Operations
 
-## Date Time:  5:54 pm Saturday, 18 March 2023 (IST)
+# Date Time:  5:54 pm Saturday, 18 March 2023 (IST)
 
-![Alt text](Documentation/Images/Bhavya%20Dora.jpg)
+![Alt text](Documentation/Images/ppt%20slide.png)
 
 ## Java Training acquired
 
@@ -14,8 +14,13 @@
 
 ## Pull Request process, Continous Integration and Continous Delivery
 
-![Alt text](Documentation/Images/PR-CI-CD.png)
+**References:**
+> 1.https://learn.microsoft.com/en-us/azure/devops/repos/git/about-pull-requests?view=azure-devops
+> 2.https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/devops-dotnet-baseline
 
+![Sql Azure|50x50](Documentation/Images/PR-CI-CD.png)
+
+![Sql Azure|50x50](Documentation/Images/Azure2.png)
 
 ## Linked List
 
