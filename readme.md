@@ -1,8 +1,8 @@
 # Bhavya Dora - Linked List - Jdbc and Sql Operations
 
-# Date Time:  11:00 am Tuesday, 21 March 2023 (IST)
+# Date Time:  11:30 am Wednesday, 22 March 2023 (IST)
 
-![Alt text](Documentation/Images/ppt%20slide.png)
+![Alt text](Documentation/Images/firstslide.png)
 
 ## Java Training acquired
 
@@ -58,7 +58,8 @@
 
 ## JDBC CRUD Operations with MYSQL
 
-> We have created CustomerDB database in MYSQL. We have created a single table called Customer and prepopulated with few rows.
+> We have created CustomerDB database in MYSQL. We have created a single table called Customer with the following attributes:
+ID, Name, Mobile, Email, ItemsPurchased. 
 
 ## Operations Performed:
 
@@ -67,7 +68,7 @@
 > 3. Display
 > 4. Display All
 
-> I have used 2 functions for Insertion where in insert() is used to delete a single record and insertMultiple() is used to insert multiple records according to the user convenience.
+> I have used 2 functions for Insertion where in insert() is used to insert a single record and insertMultiple() is used to insert multiple records according to the user convenience.
 
 > I have used 2 functions for Diplaying where in display() is used to display a single record and displayAll() is used to display multiple records according to the user convenience.
 
